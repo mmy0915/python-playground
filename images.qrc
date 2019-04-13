@@ -1,0 +1,10 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+<qresource>
+<file alias="icons/6.png">icons/6.png</file>
+<file alias="icons/btnn.png">icons/btnn.png</file>
+<file alias="icons/btnn_change.png">icons/btnn_change.png</file>
+<file alias="icons/logo.png">icons/logo.png</file>
+<file alias="icons/Sort.png">icons/Sort.png</file>
+</qresource>
+</RCC>
